@@ -1,5 +1,5 @@
 # WeedMaps
-This project includes a script meant to extract data from the website "weedmaps.com" and load that data into a SQL database. Also include is the resultant SQL databse with extracted data.
+This project includes a script meant to extract data from the website "weedmaps.com" and load that data into a SQL database. Also included is the resulting SQL databse with extracted data.
 
 The data extracted was from all stores (dispensaries, delivery services, and doctors) in the US and Puerto Rico and included the following variables:
 
