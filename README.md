@@ -3,15 +3,15 @@ This project includes a script meant to extract data from the website "weedmaps.
 
 The data extracted was from all stores in the US and Puerto Rico and included the following variables:
 
-    1.  business, 
-    2.  address, 
-    3.  city, 
-    4.  state, 
-    5.  zip_code, 
-    6.  timezone, 
-    7.  license_type, 
-    8.  type_desc, 
-    9.  web_url, 
+    1.  business
+    2.  address
+    3.  city
+    4.  state
+    5.  zip_code
+    6.  timezone
+    7.  license_type
+    8.  type_desc
+    9.  web_url
     10. count
 
 In order to run this script you will need the following applications:
